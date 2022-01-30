@@ -91,8 +91,6 @@ function game() {
                 }
             }
         
-            console.log(player.toLowerCase())
-            console.log(computer.toLowerCase())
             console.log("You picked " + player)
             console.log("The computer picked " + computer)
             factChecker()
